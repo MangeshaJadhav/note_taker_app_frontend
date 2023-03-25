@@ -1,0 +1,20 @@
+.nav-container{
+display: flex;
+flex-direction: row;
+padding:21px;
+margin-left: 2px;
+row-gap: 2px;
+background-color: black;
+color:aliceblue
+}
+
+.nav-container div{
+    margin-left:25px;
+    font-size:18px;
+
+}
+.nav-container div button{
+    border: none;
+    border-radius: 2px;
+    
+}

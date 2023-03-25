@@ -1,0 +1,28 @@
+.contianer {
+  height: 50vh;
+  width: 25vw;
+  border: 2px solid black;
+  background: salmon;
+  /* align-items: center; */
+  display: flex;
+  margin-left: 40vw;
+  margin-top: 20vh;
+}
+.sub-contianer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-top: -10px;
+  align-items: left;
+}
+.sub-contianer input {
+  width: 80%;
+  margin-top: 5px;
+}
+.sub-contianer label {
+  align-items: left;
+  margin-left: 2px;
+}
+.btn {
+  width: 40%;
+}

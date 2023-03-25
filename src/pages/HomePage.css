@@ -1,0 +1,46 @@
+.home-container{
+    background: rgb(144, 235, 235);
+    height:85vh;
+}
+.search{
+    width:90%;
+    height: 5vh;
+    border-radius: 10px ;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.notebar{
+    height:30vh;
+    width:90%;
+    border:1px solid black;
+    margin-left: 50px;
+    background: rgb(163, 232, 136);
+    margin-top: 20px;
+    border-radius: 10px;
+    align-items: left;
+    display: flex;
+    flex-direction: row;
+}
+/* .notebar .date{
+    margin-left: -350px;
+}
+.notebar div{
+    margin-left: -350px;
+} */
+/* .notebar{
+    flex:1;
+display: flex;
+flex-direction: column;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
